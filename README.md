@@ -6,3 +6,6 @@
 - migrate: `php artisan migrate`
 - seed necessary data: `php artisan db:seed` (this will create the default user to authenticate with (for using all the api endpoints) and 50 record of books using factory)
 
+user 
+  -  username : user@demo.com
+  -  password : password
